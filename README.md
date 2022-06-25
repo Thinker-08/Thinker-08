@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge">
 <h1 align="center">Hi 👋, I'm Mihir Agrawal</h1>
 <h3 align="center">Coding to find the better me</h3>
 
